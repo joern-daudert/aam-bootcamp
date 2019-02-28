@@ -42,9 +42,6 @@ After publishing your Launch property, you can now implement it on your La Bouti
 ### [Exercise 1.7 - Verify Data Ingestion from website into AAM](./ex7.md)
 With the implementation done now, you'll learn how you can verify your full implementation.
 
-## Build Traits & Segments 
-In this E
-
-[Next Step: Create Traits](../create_traits)
+### >>> **[Exercise 2 - Build Traits & Segments](../create_traits)** <<<
 
 [Go Back](../README.md)
