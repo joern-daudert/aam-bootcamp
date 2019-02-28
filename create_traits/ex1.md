@@ -30,11 +30,6 @@ For creating the new trait, provide the following details
 | La Boutique - Home         | User visiting Home page          | Online Clickstream Data Source         | Site Visitor     |
 
 
-Name: La Boutique - Home
-Description: User visiting Home page
-Data Source: Online Clickstream Data Source
-Event Type: Site Visitor
-
 ![Data Ingestion](./images/traits3.png)
 
 Each Trait must be stored in the folder taxonomy which can be found at the right side of the Trait details. Look for folder "Bootcamp" and create a subfolder within you companies folder by clicking at the "+" button. 
@@ -53,13 +48,24 @@ Go to "Trait Expression" and open the this area by clicking on the arrow.
 
 Now you need to fill in the key:value pairs to define your trait.
 
-- Key: c_evar1 (this is why you need to put a c_ in front of evar1: [Click here](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html) 
-- Operator: == 
-- Value: la boutique home
+| Key              | Operator     | Value |
+| ----------------- |:-------------:| :-----------------:|
+|c_evar1 (this is why you need to put a c_ in front of evar1: [Click here](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html)| ==         |la boutique home        |
 
 ![Data Ingestion](./images/traits5.2.png)
 
 Click on "Add Rule" and save the Trait by clicking "Save".
+
+**Repeat this for evar2 & evar3 with the following components:
+
+| Key              | Operator     | Value |
+| ----------------- |:-------------:| :-----------------:|
+|c_evar2 | CONTAINS        |Chrome       |
+
+| Key              | Operator     | Value |
+| ----------------- |:-------------:| :-----------------:|
+|c_evar3 | CONTAINS        |cart|
+
 
 ### [Next Exercise 2.2](./ex2.md)
 ### [Go back to Exercise 2 overview](./README.md)
