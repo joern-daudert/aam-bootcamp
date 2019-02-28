@@ -24,6 +24,12 @@ Click at the "Add New" button and choose "Rule-Based" from the dropdown.
 
 For creating the new trait, provide the following details
 
+
+| Name              | Description     | Data Source  | Event Type |
+| ----------------- |:-------------:| :-----------------:| :--------:|
+| La Boutique - Home         | User visiting Home page          | Online Clickstream Data Source         | Site Visitor     |
+
+
 Name: La Boutique - Home
 Description: User visiting Home page
 Data Source: Online Clickstream Data Source
