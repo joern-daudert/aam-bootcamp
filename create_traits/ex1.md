@@ -47,7 +47,7 @@ Go to "Trait Expression" and open the this area by clicking on the arrow.
 
 Now you need to fill in the key:value pairs to define your trait.
 
-Key: c_evar1 
+Key: c_evar1 (this is why you need to put a c_ in front of evar1: [Click here] (https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html) 
 Operator: == 
 Value: la boutique home
 
