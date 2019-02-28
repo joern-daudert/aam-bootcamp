@@ -26,7 +26,7 @@ Here is an overview of the data structure in AAM:
 
 ![Data Ingestion](./images/traits.png)
 
-Click here to learn more about [Traits](https://marketing.adobe.com/resources/help/en_US/aam/c_tb_rules.html) and [Segments](https://marketing.adobe.com/resources/help/en_US/aam/c_segment_builder.html)
+Click here to learn more about [Traits](https://marketing.adobe.com/resources/help/en_US/aam/c_tb_rules.html) and [Segments](https://marketing.adobe.com/resources/help/en_US/aam/c_segment_builder.html).
 
 
 ### [Excercise 2.1 - Create Traits and define your taxonomy](./ex1.md)
