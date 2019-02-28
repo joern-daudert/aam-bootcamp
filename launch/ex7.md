@@ -50,8 +50,6 @@ Go to our website [http://aam-bootcamp.de](http://aam-bootcamp.de) and open deve
 
 ![Verify Calls](./images/devtools.png)
 
-![Verify Calls](./images/sitedevtools.png)
-
 Jump to the Observe point menue and refresh the page. Click on the Analytics Icon and check the eVars on the right site. 
 
 ![OP](./images/op3.png)
