@@ -30,13 +30,6 @@ Here is an overview of the data structure in AAM:
 ### [Excercise 2.1 - Create Traits](./ex1.md)
 
 
-
-
-
-### [test] (./ex1.md)
-
-### [Exercise 2.2 - Create] (test)
-
 Open the [Experience Cloud UI](https://experiencecloud.adobe.com) and log in with the details provided to you. 
 
 ![Data Ingestion](./images/traits.png)
