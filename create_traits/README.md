@@ -26,7 +26,7 @@ Here is an overview of the data structure in AAM:
 
 ![Data Ingestion](./images/traits.png)
 
-### [Exercise 2.1 - Create a trait based on key:value pairs and define your taxonomy] (ex1.md)
+### [Exercise 2.1 - Create a trait based on key:value pairs and define your taxonomy] (../ex1.md)
 
 ### [Exercise 2.2 - Create] (test)
 
