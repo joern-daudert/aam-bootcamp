@@ -27,24 +27,7 @@ Here is an overview of the data structure in AAM:
 ![Data Ingestion](./images/traits.png)
 
 
-### [Excercise 2.1 - Create Traits](./ex1.md)
-
-
-Open the [Experience Cloud UI](https://experiencecloud.adobe.com) and log in with the details provided to you. 
-
-![Data Ingestion](./images/traits.png)
-
-Let's create a new trait. Click "Audience Data" button, and select the "Create Dataset" option under "Schema" after that.
-
-![Data Ingestion](./images/createdataset.png)
-
-We're going to create a new dataset based on a schema, the Profile-schema, so we need to select the option to create the dataset based on a schema.
-
-![Data Ingestion](./images/datasetschema.png)
-
-![Data Ingestion](./images/datasetschemadtl.png)
-
-We'll upload CRM Data. CRM Data is always linked to a customer's profile, and as such, we need to select the Profile-schema here.
+### [Excercise 2.1 - Create Traits and define your taxonomy](./ex1.md)
 
 
 With this, you've now successfully ingested and classified CRM Data in Adobe Experience Platform. You still need to make sure that La Boutique is fully GDPR compliant, so let's do that in the next exercise!
