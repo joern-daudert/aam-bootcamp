@@ -1,4 +1,4 @@
-## Exercise 1.2.4 - Configure Launch Rules
+## Exercise 1.4 - Configure Launch Rules
 
 After creating the extensions and data elements, it's time to build our Rules.
 
