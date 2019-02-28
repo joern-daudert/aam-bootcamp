@@ -56,7 +56,7 @@ Now you need to fill in the key:value pairs to define your trait.
 
 Click on "Add Rule" and save the Trait by clicking "Save".
 
-**Repeat this for evar2 & evar3 with the following components:
+**Repeat this for evar2 & evar3 with the following components:**
 
 | Key              | Operator     | Value |
 | ----------------- |:-------------:| :-----------------:|
