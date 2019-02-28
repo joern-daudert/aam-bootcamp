@@ -56,6 +56,14 @@ Jump to the Observe point menue and refresh the page. Click on the Analytics Ico
 
 ![OP](./images/op3.png)
 
+![OP](./images/op4.png)
+
+** You've finished this exercise! Congratulations! **
+
+
+### >>> **[Exercise 2 - Build Traits & Segments](../create_traits)** <<<
+
+[Go Back](../README.md)
 
 
 
@@ -67,7 +75,7 @@ Jump to the Observe point menue and refresh the page. Click on the Analytics Ico
 
 
 
-You've finished this exercise! Congratulations!
+
 
 
 
