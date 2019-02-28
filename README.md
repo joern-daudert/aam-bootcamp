@@ -1,10 +1,14 @@
-## Module 1: Setup of Adobe Audience Manager & Launch
+## Setup of Adobe Audience Manager & Launch
 
-In **Module 1**, the following topics will be adressed:
+![Launch Setup](/images/aam-logo.png)
+
+Welcome to the AAM Bootcamp. During this workshop the following topics will be addressed:
   
   * Configuration of Launch
-  * Configuration of data elements
-
+  * Adding Extensions in Launch
+  * Configuration of data elements and rules
+  * Validating AA calls and server-side-forwarding to AAM
+  * Creating traits and segments
 
 ### Exercises:
 #### [Exercise 1.1: Setup of Prerequisites](./prerequisites/README.md)
