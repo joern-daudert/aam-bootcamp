@@ -9,4 +9,4 @@ Please be advised that all required html files can be found in a local folder "W
 
 [Next Step: Configure Launch for your website](https://github.com/joern-daudert/aam-bootcamp/blob/master/launch/README.md)
 
-[Go Back to All Modules](https://github.com/joern-daudert/aam-bootcamp/edit/master/aam-bootcamp)
+[Go Back to All Modules](https://github.com/joern-daudert/aam-bootcamp/blob/master/README.md)
