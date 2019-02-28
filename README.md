@@ -1,6 +1,6 @@
 ## Setup of Adobe Audience Manager & Launch
 
-![Launch Setup](/images/aam-logo.png)
+![Launch Setup](/images/aam-logo.jpg)
 
 Welcome to the AAM Bootcamp. During this workshop the following topics will be addressed:
   
