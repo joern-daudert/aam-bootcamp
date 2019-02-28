@@ -36,7 +36,7 @@ Repeat the same for eVar2 and eVar3
 
 ## Option B: Observe Point ## 
 
-You can also use the Chrome Plugin "ObservePoint" ![Install](https://chrome.google.com/webstore/detail/observepoint-tagdebugger/daejfbkjipkgidckemjjafiomfeabemo?hl=de) to check your eVars directly in the Browser. 
+You can also use the Chrome Plugin "ObservePoint" [Download here](https://chrome.google.com/webstore/detail/observepoint-tagdebugger/daejfbkjipkgidckemjjafiomfeabemo?hl=de) to check your eVars directly in the Browser. 
 
 ![OP](./images/op1.png)
 
