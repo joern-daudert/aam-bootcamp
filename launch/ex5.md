@@ -1,4 +1,4 @@
-## Exercise 1.2.5 - Publish your Launch Property
+## Exercise 1.5 - Publish your Launch Property
 
 Go to [https://launch.adobe.com/](https://launch.adobe.com/) and login with your personal login details.
 
