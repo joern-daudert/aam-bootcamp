@@ -1,4 +1,4 @@
-## Exercise 1.2.1 - Create a Launch Property
+## Exercise 1.1 - Create a Launch Property
 
 Go to [https://launch.adobe.com/](https://launch.adobe.com/) and login with your personal login details.
 
