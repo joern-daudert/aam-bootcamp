@@ -1,4 +1,4 @@
-## Exercise 1.2.3 - Configure Launch Data Elements
+## Exercise 1.3 - Configure Launch Data Elements
 
 Go to [https://launch.adobe.com/](https://launch.adobe.com/) and login with your personal login details.
 
