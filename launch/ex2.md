@@ -1,4 +1,4 @@
-## Exercise 1.2.2 - Configure Launch Extensions
+## Exercise 1.2 - Configure Launch Extensions
 
 Go to [https://launch.adobe.com/](https://launch.adobe.com/) and login with your personal login details.
 
