@@ -41,19 +41,21 @@ Name the subfolder: company_traits, replacing company with the name of your orga
 
 Choose your new folder to store your trait.
 
-If you wish to learn more about taxonomy, [click] (https://marketing.adobe.com/resources/help/en_US/aam/c_common_taxonomy_about.html)  here.
+If you wish to learn more about taxonomy, [click](https://marketing.adobe.com/resources/help/en_US/aam/c_common_taxonomy_about.html)  here.
 
 Go to "Trait Expression" and open the this area by clicking on the arrow.
 
 Now you need to fill in the key:value pairs to define your trait.
 
-Key: c_evar1 (this is why you need to put a c_ in front of evar1: [Click here] (https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html) 
+Key: c_evar1 (this is why you need to put a c_ in front of evar1: [Click here](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html) 
+
 Operator: == 
+
 Value: la boutique home
 
 ![Data Ingestion](./images/traits5.2.png)
 
-
+Click on "Add Rule" and save the Trait by clicking "Save".
 
 
 
