@@ -68,6 +68,6 @@ Click on "Add Rule" and save the Trait by clicking "Save".
 
 
 ### [Next Exercise 2.2](./ex2.md)
-## [Go back to Exercise 2 overview](./README.md)
-## [Go back to General Overview](../README.md)
+#### [Go back to Exercise 2 overview](./README.md)
+#### [Go back to General Overview](../README.md)
 
