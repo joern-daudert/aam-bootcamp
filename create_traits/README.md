@@ -20,7 +20,7 @@ In this exercise, the goal is to define traits in AAM and assign them to a Segme
 
 ### Story: Using the Data Ingestion UI
 
-In Exercise 1 you have completed the neccessary steps to start collecting online behavioral data via Adobe Analytics which is being server-side-forwarded into Adobe Audience Manager. Now there is raw data (key:value pairs such as evar1:pageName) flowing into the Data Management Platform. In AAM such raw data is called a **Signal**. 
+In Exercise 1 you have completed the neccessary steps to start collecting online behavioral data via Adobe Analytics which is being server-side-forwarded into Adobe Audience Manager. Now we've got raw data (key:value pairs such as evar1:pageName) flowing into the Data Management Platform. In AAM such raw data is called a **Signal**. The goal is to have users qualify for a segment, so we need to take the raw data flowing into the DMP and bring it into a format the 
 
 
 ### Exercise 2.1 - Create a trait based on key:value pairs
