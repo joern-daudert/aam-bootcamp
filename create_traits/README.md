@@ -28,7 +28,7 @@ Here is an overview of the data structure in AAM:
 
 ### [Exercise 2.1 - Create a trait based on key:value pairs and define your taxonomy] (./ex1.md)
 
-### [Exercise 2.2 - Create  
+### [Exercise 2.2 - Create] (./test)
 
 Open the [Experience Cloud UI](https://experiencecloud.adobe.com) and log in with the details provided to you. 
 
