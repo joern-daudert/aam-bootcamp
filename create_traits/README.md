@@ -27,7 +27,7 @@ Here is an overview of the data structure in AAM:
 ![Data Ingestion](./images/traits.png)
 
 
-[Excercise 2.1 - Create Traits](./ex1.md)
+### [Excercise 2.1 - Create Traits](./ex1.md)
 
 
 
