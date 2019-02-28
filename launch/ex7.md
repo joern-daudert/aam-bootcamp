@@ -34,6 +34,37 @@ Repeat the same for eVar2 and eVar3
 
 ![Verify Calls](./images/console3.png)
 
+## Option B: Observe Point ## 
+
+You can also use the Chrome Plugin "ObservePoint" ![Install](https://chrome.google.com/webstore/detail/observepoint-tagdebugger/daejfbkjipkgidckemjjafiomfeabemo?hl=de) to check your eVars directly in the Browser. 
+
+![OP](./images/op1.png)
+
+** Don't worry, it is preinstalled on your maschine. ** 
+
+Go the "Addons" an check whether it is enalbed or not. 
+
+![OP](./images/op2.png)
+
+Go to our website [http://aam-bootcamp.de](http://aam-bootcamp.de) and open developer tools 
+
+![Verify Calls](./images/devtools.png)
+
+![Verify Calls](./images/sitedevtools.png)
+
+Jump to the Observe point menue and refresh the page. Click on the Analytics Icon and check the eVars on the right site. 
+
+![OP](./images/op3.png)
+
+
+
+
+
+
+
+
+
+
 
 
 You've finished this exercise! Congratulations!
