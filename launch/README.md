@@ -1,4 +1,4 @@
-## Exercise 1: Launch Configuration
+## Launch Configuration
 In this exercise, the goal is to install and configure Launch and AAM to capture data from our La boutique demo website.
 
 ### Learning Objectives
@@ -42,6 +42,9 @@ After publishing your Launch property, you can now implement it on your La Bouti
 ### [Exercise 1.7 - Verify Data Ingestion from website into AAM](./ex7.md)
 With the implementation done now, you'll learn how you can verify your full implementation.
 
+## Build Traits & Segments 
+In this E
+
 [Next Step: Create Traits](../create_traits)
 
-[Go Back to Module 1](../README.md)
+[Go Back](../README.md)
