@@ -55,14 +55,7 @@ Now you need to fill in the key:value pairs to define your trait.
 
 Click on "Add Rule" and save the Trait by clicking "Save".
 
+### [Next Exercise 2.2](./ex2.md)
+### [Go back to Exercise 2 overview](./README.md)
+### [Go back to General Overview](../README.md)
 
-
-![Data Ingestion](./images/createdataset.png)
-
-We're going to create a new dataset based on a schema, the Profile-schema, so we need to select the option to create the dataset based on a schema.
-
-![Data Ingestion](./images/datasetschema.png)
-
-![Data Ingestion](./images/datasetschemadtl.png)
-
-We'll upload CRM Data. CRM Data is always linked to a customer's profile, and as such, we need to select the Profile-schema here.
