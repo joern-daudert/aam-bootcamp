@@ -1,4 +1,4 @@
-## Exercise 1.2.6 - Implement Launch Tag on La Boutique website
+## Exercise 1.6 - Implement Launch Tag on La Boutique website
 
 Go to the folder Applications > MAMP > htdocs > js and locate the launch.js file
 
