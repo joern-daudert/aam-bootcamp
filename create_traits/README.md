@@ -1,9 +1,9 @@
-## Exercise 1.3: Data Ingestion from Offline Sources
-In this exercise, the goal is to onboard external data like CRM Data in Platform.
+## Exercise 2: Build Traits & Segments
+In this exercise, the goal is to define traits in AAM and assign them to a Segment.
 
 ### Learning Objectives
 
-- Learn how to ingest XDM-formatted data files (*.parquet)
+- Learn how to create a trait based on key:value pairs
 - Learn the web UI for data ingestion
 - Understand the data governance features of Experience Platform
 
