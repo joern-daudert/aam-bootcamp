@@ -40,7 +40,7 @@ You can also use the Chrome Plugin "ObservePoint" [Download here](https://chrome
 
 ![OP](./images/op1.png)
 
-** Don't worry, it is preinstalled on your maschine. ** 
+**Don't worry, it is preinstalled on your maschine.** 
 
 Go the "Addons" an check whether it is enalbed or not. 
 
@@ -58,7 +58,7 @@ Jump to the Observe point menue and refresh the page. Click on the Analytics Ico
 
 ![OP](./images/op4.png)
 
-** You've finished this exercise! Congratulations! **
+**You've finished this exercise! Congratulations!**
 
 
 ### >>> **[Exercise 2 - Build Traits & Segments](../create_traits)** <<<
