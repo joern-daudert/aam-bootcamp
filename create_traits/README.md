@@ -29,12 +29,9 @@ Here is an overview of the data structure in AAM:
 
 ### [Excercise 2.1 - Create Traits and define your taxonomy](./ex1.md)
 
+### [Excercise 2.2 - Create a Segment](./ex2.md)
 
-With this, you've now successfully ingested and classified CRM Data in Adobe Experience Platform. You still need to make sure that La Boutique is fully GDPR compliant, so let's do that in the next exercise!
 
-[Next Step: Using Adobe's Privacy/GDPR API](../gdpr/README.md)
-
-[Go Back to Module 1](../README.md)
 
 [Go Back to All Modules](/../../)
 
