@@ -1,4 +1,4 @@
-## Exercise 1.2.7 - Verify Data 
+## Exercise 1.7 - Verify Data 
 
 After implementing the Launch Tag on your website, you should start to see calls being sent towards AAM.
 
