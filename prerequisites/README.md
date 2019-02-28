@@ -2,9 +2,11 @@
 
 MAMP: Quick Introduction
 
-[Next Step: Configure Launch for your website](https://git.corp.adobe.com/daudert/aam-bootcamp/blob/master/launch/README.md)
+"La Boutique" - our demo site for this bootcamp is already set up. No further task to do right now.
+Please be advised that all required html files can be found in a local folder stored on your desktop.
 
-[Go Back to All Modules](https://git.corp.adobe.com/daudert/aam-bootcamp)
+![Launch Setup](/images/mamp.png)
 
+[Next Step: Configure Launch for your website](./launch/README.md)
 
-
+[Go Back to All Modules](./aam-bootcamp)
