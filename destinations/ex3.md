@@ -20,7 +20,7 @@ Perfect, now choose your cookie destination first.
 
 Next step is to fill out the "**Destination Value**" that will be visible within your Cookie. Just type in the name of the segments without spaces or "umlauts (ä,ö,ü etc.)". If we want to use them we would need to enable Serialize within the Cookie setup. The start date should be today.
 
-![Destionations](./images/mapping.png)
+![Destionations](./images/test2.png)
 
 Just click on "**save**"
 
