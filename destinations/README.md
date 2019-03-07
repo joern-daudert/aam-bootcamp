@@ -1,5 +1,5 @@
-## Exercise 3: Build & map Destinations
-In this exercise, the goal is to create a Cookie & URL  Destination and map Segments to both Destinations.
+## Exercise 3: Build & map destinations
+In this exercise, the goal is to create a Cookie & URL  Destination and map Segments to both destinations.
 
 ### Learning Objectives
 
@@ -24,15 +24,23 @@ We have already learned how we build some traits and segments. Now it is time to
 
 ### What are destinations?
 
+In Audience Manager, a destination is any third-party system (ad server, DSP, ad network, etc.) that you want to share data with. We want to use the Destination Builder, used to create and manage cookie, URL, or server-to-server destinations.
 
+### Destination Types and Typical Uses
 
+The examples in the following table can help you understand when to use a particular destination and the differences between each type.
 
+![Destionations](./images/types.png)
 
 Click here to learn more about [URL Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-url-destination.html) and [Cookie Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-cookie-destination.html).
 
 ### [Excercise 3.1 - Create a Cookie Destination](./ex1.md)
+
 ### [Excercise 3.2 - Create a URL Destination](./ex2.md)
+
 ### [Excercise 3.3 - Map a segment to a destination](./ex3.md)
+
+
 
 [Go Back to Excercise 2 - Build Traits & Segments](./README.md)
 
