@@ -26,9 +26,9 @@ First we want to create a custom Cookie Destination that could be used by nearly
 
 ![Destionations](./images/basic_information.png)
 
-| Name              | Description     | Category  | Type |	Auto-fill	|
-| ----------------- |:-------------:| :-----------------:| :--------:|
-| aam_bootcamp_YOURLASTNAME         | This is your Cookie          | Custom         | Cookie     |	|
+| Name              | Description | Category  | Type |	Auto-fill	|
+| ----------------- | ----------- | --------- | ---- |  --------    |
+| aam_bootcamp_YOURLASTNAME | This is your Cookie | Custom | Cookie |	|
 
 Hit "**next**".
 

@@ -3,7 +3,6 @@ In this exercise, the goal is to create a Cookie & URL  Destination and map Segm
 
 ### Learning Objectives
 
-- Learn how to create a destination
 - Learn more about the differnent destination types
 - Understand how to build a Cookie destination
 - Understand how to build a URL destination
@@ -15,10 +14,10 @@ In this exercise, the goal is to create a Cookie & URL  Destination and map Segm
 
 ### Lab Tasks
 
-- Creating destinations
+- Creating both destinations
 - Activating a segment to a destination
 
-### Story: Using the Data Ingestion UI
+### Story:
 
 We have already learned how we build some traits and segments. Now it is time to activate them. We will build destinations step by step and activate your segments against your new destinations.
 
@@ -33,6 +32,7 @@ The examples in the following table can help you understand when to use a partic
 ![Destionations](./images/types.png)
 
 Click here to learn more about [URL Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-url-destination.html) and [Cookie Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-cookie-destination.html).
+
 
 ### [Excercise 3.1 - Create a Cookie Destination](./ex1.md)
 
