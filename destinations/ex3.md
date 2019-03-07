@@ -6,7 +6,7 @@ Click the "Audience Data" button in the upper navigation bar and choose "Segment
 
 ![Destionations](./images/segments.png)
 
-First we start with your Cookie Destination. Just select the segments that you have just created before and select them.
+First we start with your Cookie destination. Just select the segments that you have just created before and select them.
 
 ![Destionations](./images/segment_selection.png)
 
@@ -46,12 +46,12 @@ Now select your URL destination
 
 ![Destionations](./images/url_selection.png)
 
-Now we need to fill in the destination URL. This will be  typically an URL hat contains a pixel. As an example we will use my RLSA List:
+Now we need to fill in the destination URL. This will be typically an URL hat contains a pixel. As an example we will use my RLSA List:
 
 
-URL: http://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
+**URL**: http://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
 
-Secure URL: https://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
+**Secure URL**: https://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
 
 ![Destionations](./images/urls.png)
 

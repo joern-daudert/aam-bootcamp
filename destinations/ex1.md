@@ -44,12 +44,12 @@ Alright now we need to configure our Cookie:
 * Max Size: 2048
 * Expire after: 30
 * Publish data to: All of our domains
-* Data Format: Single Key
-* Key: segment
-* Key-Value Pair Delimiter: =
+* Data Format: Multi-Key
+* Key-Value Separator: =
+* Key-Value Pair Delimiter: ,
 * Serialize: 
 
-![Destionations](./images/configuration2.png)
+![Destionations](./images/test.png)
 
 Just hit "Save"
 

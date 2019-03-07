@@ -1,5 +1,5 @@
 ## Exercise 3: Build & map destinations
-In this exercise, the goal is to create a Cookie & URL  Destination and map Segments to both destinations.
+In this exercise, the goal is to create a Cookie & URL destination and map Segments to both destinations.
 
 ### Learning Objectives
 
