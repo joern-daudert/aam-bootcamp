@@ -33,8 +33,6 @@ Click here to learn more about [Traits](https://marketing.adobe.com/resources/he
 
 ### [Excercise 2.2 - Create a Segment](./ex2.md)
 
-### [Excercise 3 - Create a Destination](../destinations/README.md)
-
 [Go Back to All Modules](/../../)
 
 

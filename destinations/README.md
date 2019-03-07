@@ -22,12 +22,19 @@ In this exercise, the goal is to create a Cookie & URL  Destination and map Segm
 
 We have already learned how we build some traits and segments. Now it is time to activate them. We will build destinations step by step and activate your segments against your new destinations.
 
+### What are destinations?
+
+
+
+
+
 Click here to learn more about [URL Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-url-destination.html) and [Cookie Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-cookie-destination.html).
 
+### [Excercise 3.1 - Create a Cookie Destination](./ex1.md)
+### [Excercise 3.2 - Create a URL Destination](./ex2.md)
+### [Excercise 3.3 - Map a segment to a destination](./ex3.md)
 
-
-
-[Excercise 2 - Exercise 2: Build Traits & Segments](./README.md)
+[Go Back to Excercise 2 - Build Traits & Segments](./README.md)
 
 [Go Back to All Modules](/../../)
 
