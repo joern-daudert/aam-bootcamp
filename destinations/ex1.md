@@ -1,4 +1,4 @@
-## Exercise 2.3 - Destinations
+## Exercise 3.1 - Create a Cookie destination
 
 Go to [Experience Cloud UI](https://experiencecloud.adobe.com) and log in with the credentials provided to you. 
 
@@ -55,9 +55,10 @@ Just hit "Save"
 
 ![Destionations](./images/save.png)
 
-Wohooo! We have created our first Cookie Domain. 
+Wohooo! We have created our first Cookie destination. 
 
-### [Next Exercise 2.4 - Map a Segment to a destination](./ex2.md)
-#### [Go back to Exercise 2 overview](./README.md)
+### [Next Exercise 3.2 - Build a URL a destination](./ex2.md)
+
+#### [Go back to Exercise 3 overview](./README.md)
 #### [Go back to General Overview](../README.md)
 

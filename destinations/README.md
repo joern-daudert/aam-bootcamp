@@ -27,8 +27,7 @@ Click here to learn more about [URL Destinations](https://marketing.adobe.com/re
 
 
 
-### [Excercise 2 - Exercise 2: Build Traits & Segments](./README.md)
-
+[Excercise 2 - Exercise 2: Build Traits & Segments](./README.md)
 
 [Go Back to All Modules](/../../)
 
