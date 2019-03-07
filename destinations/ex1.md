@@ -59,6 +59,8 @@ Wohooo! We have created our first Cookie destination.
 
 ### [Next Exercise 3.2 - Build a URL a destination](./ex2.md)
 
+
+
 #### [Go back to Exercise 3 overview](./README.md)
 #### [Go back to General Overview](../README.md)
 

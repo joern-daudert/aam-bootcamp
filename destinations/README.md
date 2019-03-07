@@ -33,10 +33,9 @@ The examples in the following table can help you understand when to use a partic
 
 Click here to learn more about [URL Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-url-destination.html) and [Cookie Destinations](https://marketing.adobe.com/resources/help/en_US/aam/create-cookie-destination.html).
 
+### [Excercise 3.1 - Create a Cookie destination](./ex1.md)
 
-### [Excercise 3.1 - Create a Cookie Destination](./ex1.md)
-
-### [Excercise 3.2 - Create a URL Destination](./ex2.md)
+### [Excercise 3.2 - Create a URL destination](./ex2.md)
 
 ### [Excercise 3.3 - Map a segment to a destination](./ex3.md)
 

@@ -45,6 +45,8 @@ That's it. Easy isn't it?
 
 ### [Next Exercise 3.3 - Map segments](./ex3.md)
 
+
+
 #### [Go back to Exercise 3 overview](./README.md)
 #### [Go back to General Overview](../README.md)
 
