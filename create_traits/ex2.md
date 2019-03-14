@@ -58,6 +58,22 @@ Select your trait "La Boutique - Home" and click "Add Selected Traits to Segment
 
 ![Data Ingestion](./images/segment7.png)
 
+Your trait has now been assigned to the segment. For now, we will only assign one trait per segment. Later we will also add multiple segments to combine them via bolean operators. Go ahead and save the segment by clicking the button below.
+
+![Data Ingestion](./images/segment8.png)
+
+After creating the "La Boutique - Home" segment, go ahead and repeat the same steps to create a segment for each of the other two traits as well. 
+
+Segment: Google Chrome visitors
+| Name              | Description     | Data Source  |
+| ----------------- |:-------------:| :-----------------:|
+| Google Chrome visitors         | User visiting from chrome browser          | Online Clickstream Data Source         |
+
+Segment: Page Visitor - Cart
+| Name              | Description     | Data Source  |
+| ----------------- |:-------------:| :-----------------:|
+| Page Visitor - Cart         | User visiting Cart page          | Online Clickstream Data Source         |
+
 
 **Repeat this for evar2 & evar3 with the following components:**
 
