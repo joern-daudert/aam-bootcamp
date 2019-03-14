@@ -22,8 +22,7 @@ Click at the "Add New" button.
 
 ![Data Ingestion](./images/segment2.png)
 
-For creating the new segment, provide the following details
-
+Complete Basic Information by giving the segment a name, description, data source and folder location. 
 
 | Name              | Description     | Data Source  |
 | ----------------- |:-------------:| :-----------------:|
@@ -50,7 +49,15 @@ Go to "Traits" and open this section by clicking on the arrow.
 
 ![Data Ingestion](./images/segment6.png)
 
-Click on "Browse All Traits" to choose traits for building the segment.
+Search for the trait by name, or use the Advanced Search modul by clicking "Browse All Traits".
+
+In this pop-up window, first look for your traits in the taxonomy folders in the left navigation panel. 
+Click into your folder and the associated traits will be listed in the main window. 
+
+Select your trait "La Boutique - Home" and click "Add Selected Traits to Segment".
+
+![Data Ingestion](./images/segment7.png)
+
 
 **Repeat this for evar2 & evar3 with the following components:**
 
