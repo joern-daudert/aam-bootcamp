@@ -65,11 +65,13 @@ Your trait has now been assigned to the segment. For now, we will only assign on
 After creating the "La Boutique - Home" segment, go ahead and repeat the same steps to create a segment for each of the other two traits as well. 
 
 Segment: Google Chrome visitors
+
 | Name              | Description     | Data Source  |
 | ----------------- |:-------------:| :-----------------:|
 | Google Chrome visitors         | User visiting from chrome browser          | Online Clickstream Data Source         |
 
 Segment: Page Visitor - Cart
+
 | Name              | Description     | Data Source  |
 | ----------------- |:-------------:| :-----------------:|
 | Page Visitor - Cart         | User visiting Cart page          | Online Clickstream Data Source         |
