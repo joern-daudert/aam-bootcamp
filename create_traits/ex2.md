@@ -20,7 +20,7 @@ Let's create a new segment. Click the "Audience Data" button in the upper bar an
 
 Click at the "Add New" button.
 
-![Data Ingestion](./images/segment2.png)
+![Data Ingestion](./images/segment2a.png)
 
 Complete Basic Information by giving the segment a name, description, data source and folder location. 
 
