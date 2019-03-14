@@ -73,8 +73,9 @@ Segment: Page Visitor - Cart
 | ----------------- |:-------------:| :-----------------:|
 | Page Visitor - Cart         | User visiting Cart page          | Online Clickstream Data Source         |
 
-You have now created the 3 basics segments. Next, let's create a segment combining multiple traits by setting boolean operators.
+You have now created the 3 basic segments. 
 
+Next, let's create a segment combining multiple traits by setting boolean operators.
 Click on "Add New" in Segment Builder and provide the following details to create the segment. Remember to store your segment in your taxonomy.
 
 | Name              | Description     | Data Source  |
