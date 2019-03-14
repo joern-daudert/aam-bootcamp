@@ -42,13 +42,11 @@ Name the subfolder: company_segments, replacing company with the name of your or
 
 Choose your new folder to store your segment.
 
-
 Now we need to assign a trait (could also be multiple traits) to our new segment. 
 Go to "Traits" and open this section by clicking on the arrow.
+Search for the trait by name, or use the Advanced Search modul by clicking "Browse All Traits".
 
 ![Data Ingestion](./images/segment6.png)
-
-Search for the trait by name, or use the Advanced Search modul by clicking "Browse All Traits".
 
 In this pop-up window, first look for your traits in the taxonomy folders in the left navigation panel. 
 Click into your folder and the associated traits will be listed in the main window. 
