@@ -16,7 +16,7 @@ From all the Experience Cloud solutions choose Audience Manager. You will be red
 
 Let's create a new segment. Click the "Audience Data" button in the upper bar and choose "Segments" from the dropdown menu.
 
-![Data Ingestion](./images/segment1.png)
+![Data Ingestion](./images/segment19.png)
 
 Click at the "Add New" button.
 
