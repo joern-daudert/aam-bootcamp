@@ -26,7 +26,7 @@ For creating the new segment, provide the following details
 
 
 | Name              | Description     | Data Source  |
-| ----------------- |:-------------:| :-----------------:| :--------:|
+| ----------------- |:-------------:| :-----------------:|
 | La Boutique - Home         | User visiting Home page          | Online Clickstream Data Source         |
 
 
