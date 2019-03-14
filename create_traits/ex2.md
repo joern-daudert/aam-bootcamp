@@ -30,31 +30,27 @@ For creating the new segment, provide the following details
 | La Boutique - Home         | User visiting Home page          | Online Clickstream Data Source         |
 
 
-![Data Ingestion](./images/traits3.png)
+![Data Ingestion](./images/segment3.png)
 
-Each Trait must be stored in the folder taxonomy which can be found at the right side of the Trait details. Look for folder "Bootcamp" and create a subfolder within you companies folder by clicking at the "+" button. 
+Don't worry about the other areas, keep the default settings for now. 
+Each segment must be stored in the folder taxonomy which can be found at the right side of the segment details. Look for folder "Bootcamp" and create a subfolder within you companies folder by clicking at the "+" button. 
 
-![Data Ingestion](./images/traits4.png)
+![Data Ingestion](./images/segment4.png)
 
-Name the subfolder: company_traits, replacing company with the name of your organization.
+Name the subfolder: company_segments, replacing company with the name of your organization.
 
-![Data Ingestion](./images/traits5.1.png)
+![Data Ingestion](./images/segment5.png)
 
-Choose your new folder to store your trait.
+Choose your new folder to store your segment.
 
 If you wish to learn more about taxonomy, [click](https://marketing.adobe.com/resources/help/en_US/aam/c_common_taxonomy_about.html)  here.
 
-Go to "Trait Expression" and open the this area by clicking on the arrow.
+Now we need to assign a trait (could also be multiple traits) to our new segment. 
+Go to "Traits" and open the this section by clicking on the arrow.
 
-Now you need to fill in the key:value pairs to define your trait.
+![Data Ingestion](./images/segment6.png)
 
-| Key              | Operator     | Value |
-| ----------------- |:-------------:| :-----------------:|
-|c_evar1 (this is why you need to put a c_ in front of evar1: [Click here](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html)| ==         |la boutique home        |
-
-![Data Ingestion](./images/traits5.2.png)
-
-Click on "Add Rule" and save the Trait by clicking "Save".
+Click on "Browse All Traits" to choose traits for building the segment.
 
 **Repeat this for evar2 & evar3 with the following components:**
 
