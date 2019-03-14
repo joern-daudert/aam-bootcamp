@@ -1,4 +1,4 @@
-## Exercise 2.1 - Create a Segment
+## Exercise 2.2 - Create a Segment
 
 Go to [Experience Cloud UI](https://experiencecloud.adobe.com) and log in with the credentials provided to you. 
 
