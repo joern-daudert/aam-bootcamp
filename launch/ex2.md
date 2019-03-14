@@ -38,7 +38,7 @@ As a Tracking Server, please use **joernsmc.d3.sc.omtrdc.net**.
 ![Launch Setup](./images/analytics2.png)
 
 Scroll down until you find the "Adobe Audience Manager" - menu.
-Check the checkbox top activate the option "Automatically share Analytics Data with Audience Manager" and in the Audience Manager Subdomain menu, type **joern**.
+Check the checkbox to activate the option "Automatically share Analytics Data with Audience Manager" and in the Audience Manager Subdomain menu, type **joern**.
 
 ![Launch Setup](./images/analytics3.png)
 
