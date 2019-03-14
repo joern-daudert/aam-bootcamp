@@ -46,7 +46,7 @@ Choose your new folder to store your segment.
 If you wish to learn more about taxonomy, [click](https://marketing.adobe.com/resources/help/en_US/aam/c_common_taxonomy_about.html)  here.
 
 Now we need to assign a trait (could also be multiple traits) to our new segment. 
-Go to "Traits" and open the this section by clicking on the arrow.
+Go to "Traits" and open this section by clicking on the arrow.
 
 ![Data Ingestion](./images/segment6.png)
 
