@@ -89,25 +89,28 @@ Click on "Add New" in Segment Builder and provide the following details to creat
 In this audience we only want users who have shown high interest by reaching the cart page. Let's assume this audience is going to be used for onsite personalisation and some of the testing content cannot be displayed properly in a Chrome browser. Hence, we need to exclude all Google Chrome users from this audience. 
 
 Go to the Traits section and click at the "Browse All Traits" button.
-In the folder taxonomy browse your folder to find your traits. Select the following traits
+In the folder taxonomy browse your folder to find your traits. Select the following traits:
 
 Page Visitor - Cart
 Google Chrome visitors
 
 Go and click "Add Selected Traits to Segment".
 
-![Data Ingestion](./images/segment10.png)
+![Data Ingestion](./images/segment13.png)
 
+You can move traits up or down by mouse-overing the trait and clicking the icon looking like 6 bubbles. Click to move the trait up or down. Since we want to exclude the Chrome users, make sure trait "Google Chrome visitors" is down:
 
+![Data Ingestion](./images/segment14.png)
 
-Mouse-over trait "La Boutique - Home" and move to the left side to the icon looking like 6 bubbles. Click to move the trait below to the end:
+Mouse-over between the two traits, just where the 3 dots are located. A dropdown menu will show up. From the boolean operators, select "AND NOT" to exclude all Chrome users from our audience.
 
-![Data Ingestion](./images/segment11.png)
+![Data Ingestion](./images/segment15.png)
 
-![Data Ingestion](./images/segment12.png)
+Save the segment.
 
+Congratulations. You have now created 4 segments. Next, let's build & map destinations to activate our segments.
 
-### [Next Exercise 2.2 - Create a Segment](./ex2.md)
+### [Next Exercise 3: Build & map destinations](../destinations)
 #### [Go back to Exercise 2 overview](./README.md)
 #### [Go back to General Overview](../README.md)
 
