@@ -82,7 +82,7 @@ Click on "Add New" in Segment Builder and provide the following details to creat
 | ----------------- |:-------------:| :-----------------:|
 | High Interest users         | High Interest users         | Online Clickstream Data Source         |
 
-![Data Ingestion](./images/segment9.png)
+![Data Ingestion](./images/segment9a.png)
 
 In this audience we only want users who have shown high interest by reaching the cart page. Let's assume this audience is going to be used for onsite personalisation and some of the testing content cannot be displayed properly in a Chrome browser which would affect conversion rate negatively. Hence, we need to exclude all Google Chrome users from this audience. 
 
