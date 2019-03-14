@@ -32,7 +32,7 @@ Complete Basic Information by giving the segment a name, description, data sourc
 ![Data Ingestion](./images/segment3.png)
 
 Don't worry about the other areas, keep the default settings for now. 
-Each segment must be stored in the folder taxonomy which can be found at the right side of the segment details. Look for folder "Bootcamp" and create a subfolder within you companies folder by clicking at the "+" button. 
+Each segment must be stored in the folder taxonomy which can be found at the right side of the segment details. Look for folder "Bootcamp" and create a subfolder within you companies folder by clicking the "+" button. 
 
 ![Data Ingestion](./images/segment4.png)
 
@@ -42,7 +42,6 @@ Name the subfolder: company_segments, replacing company with the name of your or
 
 Choose your new folder to store your segment.
 
-If you wish to learn more about taxonomy, [click](https://marketing.adobe.com/resources/help/en_US/aam/c_common_taxonomy_about.html)  here.
 
 Now we need to assign a trait (could also be multiple traits) to our new segment. 
 Go to "Traits" and open this section by clicking on the arrow.
@@ -58,7 +57,7 @@ Select your trait "La Boutique - Home" and click "Add Selected Traits to Segment
 
 ![Data Ingestion](./images/segment7.png)
 
-Your trait has now been assigned to the segment. For now, we will only assign one trait per segment. Later we will also add multiple segments to combine them via bolean operators. Go ahead and save the segment by clicking the button below.
+Your trait has now been assigned to the segment. For now, we will only assign one trait per segment. Later we will also add multiple traits to combine them via boolean operators. Go ahead and save the segment by clicking the "Save" button.
 
 ![Data Ingestion](./images/segment8.png)
 
@@ -76,9 +75,9 @@ Segment: Page Visitor - Cart
 | ----------------- |:-------------:| :-----------------:|
 | Page Visitor - Cart         | User visiting Cart page          | Online Clickstream Data Source         |
 
-You have now created the 3 basics segments. Next, let's create a segment combining multiple traits by setting bolean operators.
+You have now created the 3 basics segments. Next, let's create a segment combining multiple traits by setting boolean operators.
 
-Click on "Add New" in Segment Builder and provide the following details to create the segment. Remember to store your segment in your taxonomy folder.
+Click on "Add New" in Segment Builder and provide the following details to create the segment. Remember to store your segment in your taxonomy.
 
 | Name              | Description     | Data Source  |
 | ----------------- |:-------------:| :-----------------:|
@@ -86,17 +85,18 @@ Click on "Add New" in Segment Builder and provide the following details to creat
 
 ![Data Ingestion](./images/segment9.png)
 
-In this audience we only want users who have shown high interest by reaching the cart page. Let's assume this audience is going to be used for onsite personalisation and some of the testing content cannot be displayed properly in a Chrome browser. Hence, we need to exclude all Google Chrome users from this audience. 
+In this audience we only want users who have shown high interest by reaching the cart page. Let's assume this audience is going to be used for onsite personalisation and some of the testing content cannot be displayed properly in a Chrome browser which would affect conversion rate negatively. Hence, we need to exclude all Google Chrome users from this audience. 
 
 Go to the Traits section and click at the "Browse All Traits" button.
 In the folder taxonomy browse your folder to find your traits. Select the following traits:
 
 Page Visitor - Cart
+
 Google Chrome visitors
 
 Go and click "Add Selected Traits to Segment".
 
-![Data Ingestion](./images/segment13.png)
+![Data Ingestion](./images/segment18.png)
 
 You can move traits up or down by mouse-overing the trait and clicking the icon looking like 6 bubbles. Click to move the trait up or down. Since we want to exclude the Chrome users, make sure trait "Google Chrome visitors" is down:
 
