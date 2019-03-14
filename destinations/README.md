@@ -41,7 +41,7 @@ Click here to learn more about [URL Destinations](https://marketing.adobe.com/re
 
 
 
-[Go Back to Excercise 2 - Build Traits & Segments](./README.md)
+[Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
 
 [Go Back to All Modules](/../../)
 
