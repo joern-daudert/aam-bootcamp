@@ -68,6 +68,8 @@ evar2
 | ----------------- |:-------------:| :-----------------:|
 |c_evar2 | CONTAINS        |chrome       |
 
+![Data Ingestion](./images/trait15.png)
+
 evar3
 
 | Name              | Description     | Data Source  | Event Type |
@@ -78,6 +80,9 @@ evar3
 | ----------------- |:-------------:| :-----------------:|
 |c_evar3 | CONTAINS        |cart|
 
+![Data Ingestion](./images/trait16.png)
+
+You have now created 3 traits. Let's build segments!
 
 ### [Next Exercise 2.2 - Create a Segment](./ex2.md)
 #### [Go back to Exercise 2 overview](./README.md)
