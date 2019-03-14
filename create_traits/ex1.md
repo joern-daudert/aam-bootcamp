@@ -58,9 +58,21 @@ Click on "Add Rule" and save the Trait by clicking "Save".
 
 **Repeat this for evar2 & evar3 with the following components:**
 
+evar2
+
+| Name              | Description     | Data Source  | Event Type |
+| ----------------- |:-------------:| :-----------------:| :--------:|
+| Google Chrome visitors     | User visiting from chrome browser      | Online Clickstream Data Source         | Site Visitor     |
+
 | Key              | Operator     | Value |
 | ----------------- |:-------------:| :-----------------:|
 |c_evar2 | CONTAINS        |chrome       |
+
+evar3
+
+| Name              | Description     | Data Source  | Event Type |
+| ----------------- |:-------------:| :-----------------:| :--------:|
+| Page Visitor - Cart         | User visiting Cart page        | Online Clickstream Data Source         | Site Visitor     |
 
 | Key              | Operator     | Value |
 | ----------------- |:-------------:| :-----------------:|
