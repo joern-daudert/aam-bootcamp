@@ -76,16 +76,35 @@ Segment: Page Visitor - Cart
 | ----------------- |:-------------:| :-----------------:|
 | Page Visitor - Cart         | User visiting Cart page          | Online Clickstream Data Source         |
 
+You have now created the 3 basics segments. Next, let's create a segment combining multiple traits by setting bolean operators.
 
-**Repeat this for evar2 & evar3 with the following components:**
+Click on "Add New" in Segment Builder and provide the following details to create the segment. Remember to store your segment in your taxonomy folder.
 
-| Key              | Operator     | Value |
+| Name              | Description     | Data Source  |
 | ----------------- |:-------------:| :-----------------:|
-|c_evar2 | CONTAINS        |chrome       |
+| High Interest users         | High Interest users         | Online Clickstream Data Source         |
 
-| Key              | Operator     | Value |
-| ----------------- |:-------------:| :-----------------:|
-|c_evar3 | CONTAINS        |cart|
+![Data Ingestion](./images/segment9.png)
+
+In this audience we only want users who have shown high interest by reaching the cart page. Let's assume this audience is going to be used for onsite personalisation and some of the testing content cannot be displayed properly in a Chrome browser. Hence, we need to exclude all Google Chrome users from this audience. 
+
+Go to the Traits section and click at the "Browse All Traits" button.
+In the folder taxonomy browse your folder to find your traits. Select the following traits
+
+Page Visitor - Cart
+Google Chrome visitors
+
+Go and click "Add Selected Traits to Segment".
+
+![Data Ingestion](./images/segment10.png)
+
+
+
+Mouse-over trait "La Boutique - Home" and move to the left side to the icon looking like 6 bubbles. Click to move the trait below to the end:
+
+![Data Ingestion](./images/segment11.png)
+
+![Data Ingestion](./images/segment12.png)
 
 
 ### [Next Exercise 2.2 - Create a Segment](./ex2.md)
