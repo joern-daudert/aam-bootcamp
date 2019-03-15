@@ -30,7 +30,7 @@ Save your changes in the launch.js file and reload your La Boutique website.
 
 After this change, your website and configuration are ready for Production!
 
-[Next Step: Exercise 1.2.7 - Verify Data Ingestion from La Boutique website into Platform](./ex7.md)
+[Next Step: Exercise 1.7 - Verify Data Ingestion from La Boutique website into Platform](./ex7.md)
 
 
 
