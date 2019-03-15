@@ -54,7 +54,7 @@ You now have 4 extensions installed in your Launch property:
 
 Your Launch property now has all required extensions!
 
-[Next Step: Exercise 1.2.3 - Configure Launch Data Elements](./ex3.md)
+[Next Step: Exercise 1.3 - Configure Launch Data Elements](./ex3.md)
 
 
 
