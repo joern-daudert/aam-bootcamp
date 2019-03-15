@@ -14,3 +14,7 @@ Now we see all cookies that are set on our bootcamp domain. Your cookie should b
 
 [Destionations](./images/screen3.png)
 
+
+[Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
+
+[Go Back to All Modules](/../../)
