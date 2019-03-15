@@ -16,7 +16,7 @@ Example: **aam_bootcamp_daudert**
 
 ![Destionations](./images/screen3.png)
 
-## We did it! Well done. 
+### We did it! Well done. 
 
 [Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
 
