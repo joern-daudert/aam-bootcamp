@@ -50,12 +50,14 @@ Now select your URL destination
 
 ![Destionations](./images/url_selection.png)
 
-Now we need to fill in the destination URL. This will be typically an URL hat contains a pixel. As an example we will use my RLSA List:
+Now we need to fill in the destination URL. This will be typically an URL hat contains a pixel. As an example we will use my Adwords RLSA List.
 
 
 **URL**: http://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
 
 **Secure URL**: https://www.google.de/pagead/1p-conversion/2594866157?ocid=105207893&userListId=736042993&__c=2594866157
+
+!!! Make sure that you click on the **Start Date** and select the date today !!! 
 
 ![Destionations](./images/urls.png)
 
