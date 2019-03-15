@@ -4,15 +4,15 @@
 
 Now we want to check whether our cookie works or not. To do this we return to our site aam-bootcamp.de & open the developer tools with right click & inspect element. 
 
-(./images/screen1.png)
+![Destionations](./images/screen1.png)
 
 We click on **Application** and navigate on the left side under **Cookies** to **http://aam-bootcamp.de** 
 
-(./images/screen2.png)
+![Destionations](./images/screen2.png)
 
 Now we see all cookies that are set on our bootcamp domain. Your cookie should be visible with your name.
 
-(./images/screen3.png)
+![Destionations](./images/screen3.png)
 
 
 [Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
