@@ -1,5 +1,5 @@
 ## Launch Configuration
-In this exercise, the goal is to install and configure Launch and AAM to capture data from our La boutique demo website.
+In this exercise, the goal is to install and configure Launch and AAM to capture data from our La Boutique demo website.
 
 ### Learning Objectives
 
