@@ -1,6 +1,6 @@
 ## Testing your Cookie destination
 
-**Info: It could take up to 2 hours until your brand new Cookie destination appears on 
+**Info: It could take up to 2 hours until your brand new Cookie destination appears in your Browser.**
 
 Now we want to check whether our cookie works or not. To do this we return to our site aam-bootcamp.de & open the developer tools with right click & inspect element. 
 
