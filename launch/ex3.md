@@ -40,4 +40,4 @@ Save your new data element.
 
 You've finished configuring all required data elements!
 
-[Next Step: Exercise 1.2.4 - Configure Platform Datasets](./ex4.md)
+[Next Step: Exercise 1.4 - Configure Platform Datasets](./ex4.md)
