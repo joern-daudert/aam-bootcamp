@@ -22,7 +22,7 @@ Next step is to fill out the "**Destination Value**" that will be visible within
 
 Example: **segment=homepage**
 
-If we want to use them we would need to enable Serialize within the Cookie setup. The start date should be today.
+If we want to use umlauts we would need to enable Serialize within the Cookie setup. The start date should be today.
 
 ![Destionations](./images/test2.png)
 
