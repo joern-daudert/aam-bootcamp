@@ -12,8 +12,11 @@ We click on **Application** and navigate on the left side under **Cookies** to *
 
 Now we see all cookies that are set on our bootcamp domain. Your cookie should be visible with your name.
 
+Example: **aam_bootcamp_daudert**
+
 ![Destionations](./images/screen3.png)
 
+## We did it! Well done. 
 
 [Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
 
