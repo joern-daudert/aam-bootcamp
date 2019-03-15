@@ -18,6 +18,6 @@ Example: **aam_bootcamp_daudert**
 
 ### We did it! Well done. 
 
-[Go Back to Excercise 2 - Build Traits & Segments](../create_traits)
+[Go Back to Excercise 3](../destinations)
 
 [Go Back to All Modules](/../../)
