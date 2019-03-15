@@ -85,7 +85,7 @@ With this, you've successfully finished the setup of your Rules in Launch.
 
 Let's do some publishing now!
 
-[Next Step: Exercise 1.2.5 - Publish Launch Property](./ex5.md)
+[Next Step: Exercise 1.5 - Publish Launch Property](./ex5.md)
 
 
 
