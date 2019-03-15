@@ -64,6 +64,7 @@ Now we need to fill in the destination URL. This will be typically an URL hat co
 
 Just click on "**save**" & we have mapped our segments. 
 
+### [Next Module: Test your Cookie!](./ex4.md)
 
 #### [Go back to Exercise 3 overview](./README.md)
 #### [Go back to General Overview](../README.md)
