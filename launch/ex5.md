@@ -36,7 +36,7 @@ You'll see a screen like this one, which contains the tag to implement on the we
 
 Copy the <head> tag, with the goal of pasting it on the La Boutique website in the <head> section of the page. More instructions in the next and last exercise of the Launch implementation.
 
-[Next Step: Exercise 1.2.6 - Implement Launch Tag on La Boutique website](./ex6.md)
+[Next Step: Exercise 1.6 - Implement Launch Tag on La Boutique website](./ex6.md)
 
 
 
