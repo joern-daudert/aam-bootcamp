@@ -23,7 +23,7 @@ Our rule should fire on all pages, when the page has completely loaded.
 
 | Extension     | Event Type       | Name             |
 |:-------------:| :---------------:| :--------------: |
-| Core          | Core - DOM Ready | Core - DOM Ready |
+| Core          | DOM Ready | Core - DOM Ready |
 
 ![Launch Setup](./images/rules3.png)
 
