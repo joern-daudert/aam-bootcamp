@@ -37,7 +37,7 @@ Our first action for this rule will be the configuration of the Adobe Analytics-
 
 With the AA-beacon, we're sending page view data directly to Adobe Analytics, which will then forward that data to Audience Manager.
 
-To configure the AA-beacon, you need to add an action to this rule by clicking the + button and by configuring the options as follows:
+To configure the AA-Variables, you need to add an action to this rule by clicking the + button and by configuring the options as follows:
 
 | Extension                   | Action Type      | Name                                    |
 |:---------------------------:| :---------------:| :-------------------------------------: |
